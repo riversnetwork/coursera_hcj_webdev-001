@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: Verdana, Arial, sans-serif;
 }
 
 
@@ -10,12 +11,10 @@ h1{
 p {
   border: 1px solid black;
   padding: 50px 10px 10px;
-  text-align: justify;
-  background-color: grey;
+  background-color: #a6a6a6;
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
   color: black;
 }
 
@@ -43,7 +42,6 @@ p {
   width: 150px;
   text-align: center;
   margin: 0;
-  font-family: Verdana, Arial, sans-serif;
 }
 
 .section {
